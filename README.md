@@ -1,4 +1,4 @@
-# Clustering_model
+# Clustering-model
 
 Here we have a gambling dataset with 50000 rows and 9 columns. It contains at least 4000 users' games value. 
 * By doing simple EDA we find that we need moew features to idenfity the gameplay of the players. 
